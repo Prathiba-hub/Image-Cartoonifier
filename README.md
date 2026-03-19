@@ -44,14 +44,14 @@ python cartoonifier.py
 
 ## 🖼️ Output
 
-<img width="904" height="896" alt="image" src="https://github.com/user-attachments/assets/56ead2ec-9c9e-471c-87d3-510307dd288f" />
-
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/56ead2ec-9c9e-471c-87d3-510307dd288f" />
 
 
 ## 📸 Sample
 
-(Add your output screenshot here)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ba830c88-789c-4fbf-961f-3fa7e66a9d86" />
+
 
 ## 🙌 Author
 
-Your Name
+Prathiba Devendiran
